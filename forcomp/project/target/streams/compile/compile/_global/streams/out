@@ -1,0 +1,4 @@
+[error] F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project\StudentTasks.scala:138:11: object tools is not a member of package scala
+[error]     scala.tools.nsc.io.File(path).writeAll(base64Jar)
+[error]           ^
+[error] one error found

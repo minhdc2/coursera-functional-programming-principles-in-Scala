@@ -1,0 +1,71 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\MICROS~1\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\MICROS~1\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.4.3 (Oracle Corporation Java 1.8.0_271)
+[debug]       Load.loadUnit: plugins took 546.9826ms
+[debug]       Load.loadUnit: defsScala took 0.9976ms
+[debug] [Loading] Scanning directory C:\Users\Microsoft Windows\.sbt\1.0\plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Microsoft Windows\.sbt\1.0\plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 120.3759 ms
+[debug]           Load.resolveProject(global-plugins) took 209.2494ms
+[debug]         Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\Microsoft Windows\.sbt\1.0\plugins, plugins: List(<none>))) took 480.1669ms
+[debug] [Loading] Done in C:\Users\Microsoft Windows\.sbt\1.0\plugins, returning: (global-plugins)
+[debug]       Load.loadUnit: loadedProjectsRaw took 570.4014ms
+[debug]       Load.loadUnit: cleanEvalClasses took 0.883ms
+[debug]     Load.loadUnit(file:/C:/Users/Microsoft%20Windows/.sbt/1.0/plugins/, ...) took 1175.0563ms
+[debug]   Load.apply: load took 2261.2742ms
+[debug]   Load.apply: resolveProjects took 46.0363ms
+[debug]   Load.apply: finalTransforms took 366.2379ms
+[debug]   Load.apply: config.delegates took 28.0732ms
+[debug]   Load.apply: Def.make(settings)... took 7546.4172ms
+[debug]   Load.apply: structureIndex took 503.2714ms
+[debug]   Load.apply: mkStreams took 13.054ms
+[info] loading global plugins from C:\Users\Microsoft Windows\.sbt\1.0\plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Load.defaultLoad until apply took 29746.0623ms
+[debug]           Load.loadUnit: plugins took 172.4621ms
+[debug]           Load.loadUnit: defsScala took 0.0072ms
+[debug] [Loading] Scanning directory F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project
+[debug]             Load.loadUnit: mkEval took 67.9075ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 11.9299 ms
+[info] loading settings for project forcomp-build from buildSettings.sbt,plugins.sbt,idea.sbt ...
+[debug]               Load.resolveProject(forcomp-build) took 82.64ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id forcomp-build, base: F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project, plugins: List(<none>))) took 95.9578ms
+[debug] [Loading] Done in F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project, returning: (forcomp-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 24263.1719ms
+[debug]           Load.loadUnit: cleanEvalClasses took 210.0134ms
+[debug]         Load.loadUnit(file:/F:/Deloitte/Data%20Science/Scala/scala_proj/forcomp/project/, ...) took 24648.4806ms
+[debug]       Load.apply: load took 24653.4564ms
+[debug]       Load.apply: resolveProjects took 0.5072ms
+[debug]       Load.apply: finalTransforms took 91.4711ms
+[debug]       Load.apply: config.delegates took 14.1575ms
+[debug]       Load.apply: Def.make(settings)... took 1232.4713ms
+[debug]       Load.apply: structureIndex took 115.9858ms
+[debug]       Load.apply: mkStreams took 0.0041ms
+[info] loading project definition from F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project\target\scala-2.12\sbt-1.0\classes ...
+[error] F:\Deloitte\Data Science\Scala\scala_proj\forcomp\project\StudentTasks.scala:138:11: object tools is not a member of package scala
+[error]     scala.tools.nsc.io.File(path).writeAll(base64Jar)
+[error]           ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] > Exec(loadFailed, None, None)
+[warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+[warn] In the last 501871 seconds, 9.471 (0.0%) were spent in GC. [Heap: 0.31GB free of 0.49GB, max 1.33GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.

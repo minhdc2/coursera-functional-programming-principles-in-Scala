@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8693de5a-14c2-4cfe-92a4-c84bc6cc4be6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6nrky682" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1t0xTaWKpLtI5uX8xBU6NaoroSX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+  </component>
+  <component name="RunManager" selected="Scala REPL.Scala REPL">
+    <configuration name="AnagramsSuite.combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.combinations$colon$u0020abba$u0020$u00288pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="combinations$colon$u0020abba$u0020$u00288pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.wordAnagrams$u0020married$u0020$u00282pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="wordAnagrams$u0020married$u0020$u00282pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.wordAnagrams$u0020player$u0020$u00282pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="wordAnagrams$u0020player$u0020$u00282pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="progfun1-forcomp" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="JUnit.AnagramsSuite.combinations$colon$u0020abba$u0020$u00288pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.wordAnagrams$u0020player$u0020$u00282pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.wordAnagrams$u0020married$u0020$u00282pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8693de5a-14c2-4cfe-92a4-c84bc6cc4be6" name="Default Changelist" comment="" />
+      <created>1621919817641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621919817641</updated>
+    </task>
+    <servers />
+  </component>
+</project>
